@@ -1,0 +1,3 @@
+## License Disclaimer
+
+This presentation is [licensed](./LICENCE) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://choosealicense.com/licenses/cc-by-sa-4.0/). However, please be aware that some resources and trademarks used within this presentation may be subject to different licenses or trademark protections. It is your responsibility to ensure compliance with the respective licenses and trademark guidelines for these resources. If you have any questions regarding the use of specific elements, please refer to the original source or contact the rights holder.
